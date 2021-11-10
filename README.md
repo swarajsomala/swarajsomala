@@ -8,4 +8,4 @@ I am a Embedded software Developer, working on the next generation software prod
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swarajsomala&show_icons=true&theme=gotham" alt="swarajsomala" />
+<img src="https://github-readme-stats.vercel.app/api?username=swarajsomala&show_icons=true&theme=gotham" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajsomala&layout=compact&theme=gotham" alt="languages" height="165">
