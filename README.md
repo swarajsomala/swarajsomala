@@ -6,6 +6,10 @@
 I am a Embedded software Developer, working on the next generation software products. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
-📈 my github stats
+### 📈 My github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=swarajsomala&show_icons=true&theme=gotham" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajsomala&layout=compact&theme=gotham" alt="languages" height="165">
+
+### Contribution Graph
+
+[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=swarajsomala&theme=react-dark&line=17de35&area=true&hide_border=true&color=ffffff)](https://github.com/embeddedalpha/github-readme-activity-graph)
