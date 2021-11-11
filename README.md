@@ -10,8 +10,8 @@ I am a Embedded software Developer, working on the next generation software prod
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=swarajsomala&show_icons=true&theme=gotham" alt="my github stats" width="420"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajsomala&theme=radical" alt="languages" width="200">
+<img src="https://github-readme-stats.vercel.app/api?username=swarajsomala&show_icons=true&theme=gotham" alt="my github stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajsomala&theme=radical" alt="languages" height="200">
 
 ### Contribution Graph
 
